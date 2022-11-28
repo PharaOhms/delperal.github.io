@@ -1,13 +1,13 @@
 # Site settings
 title: Hello World!
-description: Blog
+description: Portfolio
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: del Peral
 user_description: "whoami" 
-user_title: Data Science
+user_title: Python Developer & Data Scientist
 email: gdelperal@gmail.com
 #twitter_username:lorem_ipsum
 github_username:  delperal
