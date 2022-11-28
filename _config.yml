@@ -5,12 +5,12 @@ description: Blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Phara0hms
-user_description: "Hi, my name is Manuel, I am a young student and ethical hacker who constantly seeks to face new challenges. I enjoy every step of the way since I am lucky enough to be able to dedicate my time and knowledge to something that makes me fully happy. My goals are to be able to dedicate myself professionally to offensive security and continue learning something new every day."
-user_title: Offensive Security
-email: orangexcrown@gmail.com
+username: del Peral
+user_description: "whoami" 
+user_title: data science
+email: gdelperal@gmail.com
 #twitter_username:lorem_ipsum
-github_username:  PharaOhms
+github_username:  delperal
 #gplus_username:lorem_ipsum
 
 # Google-analytics
